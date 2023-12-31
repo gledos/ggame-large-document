@@ -20,6 +20,6 @@ icon: material/home
 
 [这里](https://github.com/gledos/ggame-large-document)（Github 仓库）可以查看到所有的条目的 Markdown Raw 文件。
 
-## 游客计数
+<!-- ## 游客计数 -->
 
 <!-- ![网页游客计数器](https://count.getloli.com/get/@:ggame-large-document) -->
